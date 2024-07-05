@@ -28,7 +28,7 @@ This image may take a few minutes to refresh.
 ![A rendered view of the blocks](https://github.com/elk360-revived/jool/raw/master/.github/makecode/blocks.png)
 
 
-#Notes
+##Notes
 This is the dev channel.
 
 
